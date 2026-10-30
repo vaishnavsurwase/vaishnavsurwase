@@ -133,19 +133,6 @@ Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-ba
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Statistics
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=vaishnavsurwase&show_icons=true&theme=radical&hide_border=true" alt="Vaishnav's GitHub statistics" />`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavsurwase&layout=compact&theme=radical&hide_border=true" alt="Vaishnav's top languages" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
 ## 📫 Let's Connect
 
 -   💼 **LinkedIn:**
